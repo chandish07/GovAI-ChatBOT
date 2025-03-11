@@ -80,7 +80,7 @@ GovSearch AI transforms complex government contract data into accessible insight
 ## Running the Application
 
 Start the Streamlit app:
-
+streamlit run chat.py
 The application will be accessible at `http://localhost:8501` by default.
 
 ## How It Works
